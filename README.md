@@ -1,6 +1,8 @@
-<h1 align="center"><img src="/assets/hello-there-pixel.png" alt="Hello there !" /></h1>
+<h1 align="center"><img align="center" src="/assets/hello-there-pxl.png" alt="Hello there !" /></h1>
 
-I'm Antoine, a __software developper__ passionate about __AI__ and anything cool basically. Oh ! As you can tell, I am a big fan of __pixel art__.
+---
+
+<h3>I'm <span style="color: #a37ca0"><b>Antoine</b></span>, a <b>software developper</b> passionate about AI and anything cool basically. Oh ! As you can tell, I am a big fan of pixel art.<h3>
 
 ---
 
