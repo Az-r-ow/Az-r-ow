@@ -45,6 +45,7 @@ I'm Antoine, a __software developper__ passionate about __AI__ and anything cool
 
 ## 🔗 Contact Me :
 <p align="center">
-<a href="https://www.linkedin.com/in/antoine-azar-01/" target="_blank"><img align="center" src="/assets/linkedin-logo_p.png" alt="linkedin" height="100" width="100"/></a>
-<a href="" target="_blank"><img align="center" src="/assets/discord_logo_p.png" alt="linkedin" height="100" width="100"/></a>
+<a href="https://www.linkedin.com/in/antoine-azar-01/" target="_blank"><img align="center" src="/assets/linkedin-logo_p.png" alt="linkedin" height="80" width="80"/></a>
+<a href="https://discord.gg/jJz5cHHrT5" target="_blank"><img align="center" src="/assets/discord_logo_p.png" alt="discord" height="80" width="80"/></a>
+<a target="_blank" href="https://twitter.com/Az_r_ow"><img src="/assets/twitter-logo.png" alt="twitter" height="85" width="85" /></a>
 </p>
