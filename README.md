@@ -1,4 +1,4 @@
-## 👋 Hey !
+<h1 align="center"><img src="/assets/hello-there-pixel.png" alt="Hello there !" /></h1>
 
 I'm Antoine, a __software developper__ passionate about __AI__ and anything cool basically. Oh ! As you can tell, I am a big fan of __pixel art__.
 
