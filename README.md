@@ -49,5 +49,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/antoine-azar-01/" target="_blank"><img align="center" src="/assets/linkedin-logo_p.png" alt="linkedin" height="80" width="80"/></a>
 <a href="https://discord.gg/jJz5cHHrT5" target="_blank"><img align="center" src="/assets/discord_logo_p.png" alt="discord" height="80" width="80"/></a>
-<a target="_blank" href="https://twitter.com/Az_r_ow"><img src="/assets/twitter-logo.png" align="center" alt="twitter" height="85" width="85" /></a>
+<a target="_blank" href="https://twitter.com/Az_r_ow"><img src="/assets/twitter-logo.png" align="center" alt="twitter" height="80" width="80" /></a>
 </p>
