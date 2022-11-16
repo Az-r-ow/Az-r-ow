@@ -31,8 +31,8 @@
   - [ ] Week 6: __Language__
 
 
-- [ ] Java Dashboard :
-  - [ ] Vaadin
+- [X] Java Dashboard :
+  - [X] Vaadin
 
 
 - [ ] Connect 4 in C :
