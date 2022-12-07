@@ -1,6 +1,8 @@
 <h1 align="center"><img align="center" src="/assets/hello-there-pxl.png" alt="Hello there !" /></h1>
 
-![](https://komarev.com/ghpvc/?username=Az-r-ow&color=a37ca0&style=for-the-badge)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Az-r-ow&color=a37ca0&style=for-the-badge" alt="profile-views">
+</p>
 
 ---
 
