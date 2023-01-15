@@ -31,7 +31,7 @@
   - [X] Week 2: __Uncertainty__
   - [X] Week 3: __Optimization__
   - [X] Week 4: __Learning__
-  - [ ] Week 5: __Neural Networks__
+  - [X] Week 5: __Neural Networks__
   - [ ] Week 6: __Language__
 
 
