@@ -6,7 +6,7 @@
 
 ---
 
-<h3>I'm <span style="color: #a37ca0"><b>Antoine</b></span>, a <b>software developper</b> passionate about AI and anything cool basically. Oh ! As you can tell, I am a big fan of pixel art.<h3>
+<h3>I'm <span style="color: #a37ca0"><b>Antoine</b></span>, a <b>software developer</b> passionate about AI and anything cool basically. Oh ! As you can tell, I am a big fan of pixel art.<h3>
 
 ---
 
@@ -25,14 +25,14 @@
 ---
 
 ### 🔭 Working on :
-- [ ] Harvard AI course :
+- [X] Harvard AI course :
   - [X] Week 0: __Search__
   - [X] Week 1: __Knowledge__
   - [X] Week 2: __Uncertainty__
   - [X] Week 3: __Optimization__
   - [X] Week 4: __Learning__
   - [X] Week 5: __Neural Networks__
-  - [ ] Week 6: __Language__
+  - [X] Week 6: __Language__
 
 
 - [X] Java Dashboard :
