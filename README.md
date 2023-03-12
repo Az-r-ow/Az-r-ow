@@ -25,19 +25,11 @@
 ---
 
 ### 🔭 Working on :
-- [X] Harvard AI course :
-  - [X] Week 0: __Search__
-  - [X] Week 1: __Knowledge__
-  - [X] Week 2: __Uncertainty__
-  - [X] Week 3: __Optimization__
-  - [X] Week 4: __Learning__
-  - [X] Week 5: __Neural Networks__
-  - [X] Week 6: __Language__
 
-
-- [X] Java Dashboard :
-  - [X] Vaadin
-
+- [ ] Budget Management Web App:
+  - [ ] Setting a docker compose for it
+  - [ ] Creating the app
+  - [ ] Hosting the web app on my Raspberry-pi
 
 - [ ] Connect 4 in C :
   - [X] Functional Game
@@ -46,6 +38,12 @@
 
 
 - [ ] Making all my logos on this `README` pixel art.
+
+
+### 🗂️ Archived Projects :
+
+- [X] Harvard AI course
+- [X] Vaadin Dashboard
 
 ---
 
