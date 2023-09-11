@@ -6,7 +6,7 @@
 
 ---
 
-<h3>I'm <span style="color: #a37ca0"><b>Antoine</b></span>, a <b>software developer</b> passionate about AI and anything cool basically. Oh ! As you can tell, I am a big fan of pixel art.<h3>
+<h3>I'm <span style="color: #a37ca0"><b>Antoine</b></span>, a <b>software developer</b> passionate about AI, Machine Learning and anything cool basically. Oh ! As you can tell, I am a big fan of pixel art.<h3>
 
 ---
 
@@ -26,16 +26,13 @@
 
 ### 🔭 Working on :
 
-- [ ] Budget Management Web App:
-
-  - [x] Setting a docker compose for it
-  - [ ] Creating the app
-  - [ ] Hosting the web app on my Raspberry-pi
-
+- [ ] Neural Network Library in C++ with python bindings
+  - [Todos](https://github.com/Az-r-ow/NeuralNet/blob/main/TODO.md)
 - [ ] Making all my logos on this `README` pixel art.
 
 ### 🗂️ Archived Projects :
 
+- [x] Budget Management Web App (hosted local on raspberry-pi)
 - [x] [Harvard AI course](https://github.com/Az-r-ow/cs50-ai)
 - [x] Vaadin Dashboard
 - [x] [Connect 4 in C with AI mode](https://github.com/Az-r-ow/connect4)
