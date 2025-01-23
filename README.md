@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="/assets/hello-there-pxl.png" alt="Hello there !" /></h1>
+<h1 align="center"><img align="center" src="/assets/hello-there.png" alt="Hello there !" /></h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Az-r-ow&color=8abbff&style=for-the-badge" alt="profile-views">
